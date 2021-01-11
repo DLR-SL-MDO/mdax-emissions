@@ -1,0 +1,7 @@
+<schema>
+  <aircraft>
+    <performance>
+      <fuelFlow/>
+    </performance>
+  </aircraft>
+</schema>

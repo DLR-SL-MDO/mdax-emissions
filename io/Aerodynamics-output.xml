@@ -1,0 +1,11 @@
+<schema>
+  <aircraft>
+    <wings>
+      <wing>
+        <CL/>
+        <loads/>
+        <CD/>
+      </wing>
+    </wings>
+  </aircraft>
+</schema>

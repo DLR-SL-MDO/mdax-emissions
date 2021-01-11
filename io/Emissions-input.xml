@@ -1,0 +1,22 @@
+<schema>
+  <mission>
+    <profile>
+      <stages>
+        <stage>
+          <flightTime/>
+          <altitude/>
+        </stage>
+      </stages>
+    </profile>
+  </mission>
+  <aircraft>
+    <performance>
+      <fuelFlow/>
+    </performance>
+    <fuel>
+      <emissionIndex/>
+      <energyDensity/>
+      <density/>
+    </fuel>
+  </aircraft>
+</schema>

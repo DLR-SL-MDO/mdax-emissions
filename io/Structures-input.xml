@@ -1,0 +1,10 @@
+<schema>
+  <aircraft>
+    <wings>
+      <wing>
+        <loads/>
+        <geometry/>
+      </wing>
+    </wings>
+  </aircraft>
+</schema>

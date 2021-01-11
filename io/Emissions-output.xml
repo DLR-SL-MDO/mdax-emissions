@@ -1,0 +1,8 @@
+<schema>
+  <mission>
+    <emissions>
+      <CO2/>
+      <NOx/>
+    </emissions>
+  </mission>
+</schema>

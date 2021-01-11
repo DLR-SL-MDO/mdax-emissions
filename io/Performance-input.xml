@@ -1,0 +1,21 @@
+<schema>
+  <aircraft>
+    <wings>
+      <wing>
+        <CL/>
+        <mass/>
+        <CD/>
+      </wing>
+    </wings>
+    <fuselage>
+      <mass/>
+    </fuselage>
+    <empennage>
+      <mass/>
+    </empennage>
+    <performance>
+      <climbRate/>
+      <designSpeed/>
+    </performance>
+  </aircraft>
+</schema>
