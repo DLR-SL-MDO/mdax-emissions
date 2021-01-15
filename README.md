@@ -1,6 +1,6 @@
 # mdax-emissions
 
-This repository the tool input and output definitions for a simple workflow example.  
+This repository contains the tool input and output definitions for a simple workflow example.  
 
 To get an impression of the tools a generated workflow, see [examples](./example/html).
 
